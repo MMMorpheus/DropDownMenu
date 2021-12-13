@@ -59,3 +59,6 @@
 .sub-list-item:hover > .sub-nav-list-2, .sub-list-item-2:hover > .sub-nav-list-3 {
     display: inline-block;
 }
+div {
+    color: lightcoral;
+}
